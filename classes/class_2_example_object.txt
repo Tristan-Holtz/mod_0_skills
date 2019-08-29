@@ -1,0 +1,14 @@
+Object: Open Sign
+
+Attributes:
+color: "red"
+location_made: "America"
+text_display: "Open"
+power_on: True
+hanging_location: "Front Window"
+
+Methods:
+changeColor: color = "blue"
+changeText: text = "closed"
+loosePower: power_on = fasle
+changeLocation: location = "Front Door"

@@ -1,0 +1,14 @@
+Class: Sign
+
+Attributes:
+color (string)
+power_on (boolean)
+text_display (string)
+hanging_location (array)
+location_made (string)
+
+Methods:
+changeColor (changes color attribute)
+changeLocation (selects new location from hanging_location array)
+changeText (changes text_display)
+losePower (changes power_on to fasle)
