@@ -1,0 +1,15 @@
+Class: Stove
+
+Attributes:
+number_of_burners (integer)
+available_burners (array)
+maximum_temperature (integer)
+clean_status (boolean)
+brand_name (string)
+working_status (boolean)
+
+Methods:
+needsCleaning (changes clean_status to false)
+displayLogo (calls the brand_name string)
+maximizeHeat (raises heat to maximum_temperature)
+breakDown (changes working_status to fasle)
