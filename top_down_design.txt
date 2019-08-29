@@ -1,0 +1,35 @@
+How to become a Turing student
+
+1 Go to the Try Coding Weekend
+  1.1 Give both BE and FE an honest shot
+  1.2 Decide which one interests you more
+  1.3 Decide if Turing is right for you
+2 Get all of your friends and family on board
+  2.1 Tell friends and family you will be studying for 7 months
+  2.2 Ask them to be supportive of plan
+    2.2.1 It will help if everyone is aware of and respects your time commitment
+3 Apply to Turing
+  3.1 Fill out application
+  3.2 Complete logic evaluation
+  3.3 Wait for news
+  If asked to interview in-person:
+    3.3.1 Schedule in-person interview at Turing
+  If asked to try again:
+    3.3.1 Try application process again after allotted time period
+4 Attend in-person interview at Turing
+  4.1 Arrive promptly as instructed
+  4.2 Complete interview
+  4.3 Wait for news
+  If accepted:
+    4.3.1 Inform enrollment of your plans to attend
+    4.3.2 Pick an available start date for mod 0
+  If not accepted:
+    4.3.1 Study up while you wait for your next chance to interview
+5 Complete Mod 0
+  5.1 Read upcoming curriculum
+    5.1.1 Take recommended action to configure computer
+  5.2 Invest all time possible into learning material
+  5.3 Take valuable notes
+    5.3.1 Use lots of colors to help identify important aspects
+  5.4 Pass the assessment
+  5.5 Continue to sharpen skills until Turing begins
