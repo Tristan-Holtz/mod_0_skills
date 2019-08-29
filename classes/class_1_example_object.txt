@@ -1,0 +1,14 @@
+Object: Samsung Stove
+
+Attributes:
+number_of_burners: 5
+available_burners: 5
+clean_status: True
+brand_name: "Samsung"
+working_status: True
+
+Methods:
+breakDown: working_status = false
+usesBurner: -1 burner from available_burners array, available_burners = 4
+displayLogo: Samsung
+needsCleaning: clean_status = false
